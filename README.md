@@ -11,8 +11,8 @@ This project processes and analyzes movie reviews in multiple languages (English
 - Pandas for data manipulation
 - Hugging Face Transformers for translation and sentiment analysis
 
-  ## Data Structure
-  The dataset includes the following columns:
+## Data Structure
+The dataset includes the following columns:
   - Title: Movie title
   - Year: Release Year
   - Synopsis: Brief moview description
